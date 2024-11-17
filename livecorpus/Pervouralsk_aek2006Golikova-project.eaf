@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-17T22:57:06+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/avoka/Downloads/Pervouralsk_aek2006 (video-converter.com).mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Pervouralsk_aek2006 (video-converter.com).mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d9fe9362-9b6d-4e04-8639-8364bf8a9abf</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">185</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="699160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="699610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="699870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="700700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="700720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="701680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="701800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="701820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="702330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="702690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="703040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="703060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="703480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="703900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="703928"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="703930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="704492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="704500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="705030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="705060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="705920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="706420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="706620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="707630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="710620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="711450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="712430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="712660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="713990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="714019"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="714228"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="714250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="714530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="714580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="715700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="715730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="716070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="716100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="716150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="716170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="716440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="717890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="721140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="721160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="722130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="722150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="722320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="722720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="722740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="723750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="725520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="727330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="727450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="727740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="728760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="729000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="729010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="730210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="731220"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="731970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="732000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="732440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="732610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="733180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="734060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="734091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="734161"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="734180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="734360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="737080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="737270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="739090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="739560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="739920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="741400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="742140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="742280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="743560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="743680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="745120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="745670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="745700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="746570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="746610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="746890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="746960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="747400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="747420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="748120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="748150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="748630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="748650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="748670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="749160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="750280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="750940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="750980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="752590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="753467"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="753500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="753530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="753610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="754520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="754570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="754580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="754600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="756200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="756230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="756940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="757710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="757740"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="757790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="759840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="760010"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gesture"
+        PARTICIPANT="@ear2005f" TIER_ID="gesture@ear2005f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>левая рука, дотрагивается до подбородка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>кладёт левую руку в правую</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>правая рука, поправляет кофту на плече левой руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>правая рука, засучивает рукав на левой руке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>левая рука, опускает рукав на правой руке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>2 руки, ладони направлены вниз, разводит руками в стороны</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>улыбается</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>откидывается назад</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>поднимает взгляд к небу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>правая рука, поднимает руку, поправляет волосы </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>правая рука, обхватывает спинку стула, крутит кистью</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ведёт головой вбок</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>складывает руки вместе</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>кивает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>поджимает и отпускает губу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>кивает несколько раз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>ведет головой вбок</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE>кивает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>убирает руку со спинки стула</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts90" TIME_SLOT_REF2="ts93">
+                <ANNOTATION_VALUE>ведёт бровями</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts95">
+                <ANNOTATION_VALUE>выпячивает губу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE>кивает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>левая рука, поправляет волосы на голове</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts104" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>левая рука, проводит по волосам</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts113">
+                <ANNOTATION_VALUE>смеется</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gesture"
+        PARTICIPANT="@aek2006f" TIER_ID="gesture@aek2006f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>кладёт левую рука на правую</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>левая рука, двигает кистью</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>левая рука, двигает кистью</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>поднимает глаза к небу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>растягивает губы(поджимает губы), выпрямляет руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>сложенные руки кладет ближе к себе</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>поднимает кисти, крутит кистями, контакт между кистями сохраняется две руки, ладони направлены друг к другу, касается подушечками пальцев</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>двигает пальцами и кистями</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>левой рукой зажимает пальцы правой руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>опускает руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>тыкает пальцами правой руки в ладонь левой руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>обхватывает левой кистью правую кисть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>потирает ладони</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>двигает кистями</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>поднимает соединённые руки, разъединяет их и разводит, опускает по сторонам, кисти свободны</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>рисует квадрат в воздухе указательными пальцами</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>левая рука, обхватывает правый локоть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>поднимает правую руку, опускает кисть, пальцы расслаблены</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>двигает пальцами на правой руке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>взмахивает руками, складывает руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>поднимает руки, большой палец правой руки зажимает указательный, средний и безымянный палыцы левой руки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>правая рука, пальцы расслабленны, делает несколько маленьких, аккуротных взмахов</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>левая рука, большой палец прислонен к мизинцу, двигает большим пальцем</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>две руки, машет вниз</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>правая рука, поправляет кофту на правом локте</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>двигает правой рукой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>правая рука, переворачивает кисть</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>правая рука, вертит кистью</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
+                TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE>правая рука, убирает волосы за ухо</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE>правая рука, засучивает рукав на левой руке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>складывает руки (кладёт левую руку на правую)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61"
+                TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>поднимает руки, три пальца левой руки под большим пальцем правой руки, опускает руки, затем немного поднимает, руки не разъединяет </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gesture@ear2005f" PARTICIPANT="@ear2005f" TIER_ID="gestMeaning@ear2005f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>жест внутреннего состояния: готовность</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>декоративные жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>изобразительный жест: качество: отсутствие чего-либо</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>этикетный жест: я слушаю</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>жест внутреннего состояния: интрес</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>жест - речевые действия: согласие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>жест - речевое действие: согласие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>жест внутреннего состояния: интерес</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>жест - речевое действие: согласие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>жест внутреннего состояния: расслабленность</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>жест внутреннего состояния: скука</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>жест - речевое действие: согласие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>жест внутреннего состояния: радость</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gesture@aek2006f" PARTICIPANT="@aek2006f" TIER_ID="gestMeaning@aek2006f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный жест внутреннего состояния: сосредоточенность</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>жест внутреннего состояния: задумчивость</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>жесты внутреннего состояния: задуматься</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>жест внутреннего состояния: задуматься</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>дейктический жест: фиксация объекта</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>изобразительный жест: качество: интенсивность </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>изобразительный жест: качество: квадратный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a179">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>изобразительный жест: действие: думать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>риторический жест: конец мысли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>изобразительный жест: действие: думать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>изобразительный жест: действие: условное изображение</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>жест внутреннего состояния: расслабленность</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>жест - речевое действие: перечисление двух вариантов действия</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>риторический жест: подчёркивать ритм фразы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>декоративный жест: общедекоративный</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>жест внутреннего состояния: расслабленность</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gest_organs"
+        PARENT_REF="gesture@ear2005f" PARTICIPANT="@ear2005f" TIER_ID="gestActiveOrgan@ear2005f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a1" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a2" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a3" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a4" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a5" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a6" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a7" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a8" CVE_REF="cveid_c3938623-2687-43e5-8163-f834bc84b760">
+                <ANNOTATION_VALUE>body</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a176" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a9" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a10" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a17" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a11" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a12" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a13" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a14" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a15" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a18" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a20" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a21" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a22" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a23" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a24" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a25" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a26" CVE_REF="cveid_a1ac716f-16f9-4473-9b8e-69eb896236bb">
+                <ANNOTATION_VALUE>head, body</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gest_organs"
+        PARENT_REF="gesture@aek2006f" PARTICIPANT="@aek2006f" TIER_ID="gestActiveOrgan@aek2006f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a29" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a30" CVE_REF="cveid_81f9c878-7415-444e-ab2b-6dc0ee0b2e25">
+                <ANNOTATION_VALUE>finger</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a31" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a173" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a32" CVE_REF="cveid_c9588f69-f429-46fe-8673-539cff5db144">
+                <ANNOTATION_VALUE>hand, head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a34" CVE_REF="cveid_1244e21e-932d-44ef-94a1-ad80b70e19d0">
+                <ANNOTATION_VALUE>hand, body</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>finger, hand finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a37" CVE_REF="cveid_81f9c878-7415-444e-ab2b-6dc0ee0b2e25">
+                <ANNOTATION_VALUE>finger</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a38" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a39" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a41" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a42" CVE_REF="cveid_81f9c878-7415-444e-ab2b-6dc0ee0b2e25">
+                <ANNOTATION_VALUE>finger</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a43" CVE_REF="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a44" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a45" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a46" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a47" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a48" CVE_REF="cveid_81f9c878-7415-444e-ab2b-6dc0ee0b2e25">
+                <ANNOTATION_VALUE>finger</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a50" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a51" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a52" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a53" CVE_REF="cveid_81f9c878-7415-444e-ab2b-6dc0ee0b2e25">
+                <ANNOTATION_VALUE>finger</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a54" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a55" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a57" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a56" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a58" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a59" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a60" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a62" CVE_REF="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+                <ANNOTATION_VALUE>finger, hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a61" CVE_REF="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gesture@aek2006f" PARTICIPANT="@aek2006f" TIER_ID="gestComment@aek2006f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>два жеста одновременно, все-таки я думаю, что оба жеста декоративные</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Irina882" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="gesture@ear2005f" PARTICIPANT="@ear2005f" TIER_ID="gestComment@ear2005f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>два жеста одновременно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gesture" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="Gesture organs"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gest_organs" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gest_comment" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture organs">
+        <DESCRIPTION LANG_REF="und">Active gesture organs</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_81f9c878-7415-444e-ab2b-6dc0ee0b2e25">
+            <CVE_VALUE LANG_REF="und">finger</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a3359d5e-1c9f-4e10-a202-172755225db2">
+            <CVE_VALUE LANG_REF="und">hand</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_f74a07c8-7115-4273-8521-7946be4ca57d">
+            <CVE_VALUE LANG_REF="und">head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c3938623-2687-43e5-8163-f834bc84b760">
+            <CVE_VALUE LANG_REF="und">body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_378aae36-fb81-45c0-97b1-f3402a810936">
+            <CVE_VALUE LANG_REF="und">finger, hand</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_390e41c5-f9c0-4112-8699-dd6b44880d34">
+            <CVE_VALUE LANG_REF="und">finger, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8bba08ee-0538-4d85-bfc1-d4ac819bda81">
+            <CVE_VALUE LANG_REF="und">finger, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c9588f69-f429-46fe-8673-539cff5db144">
+            <CVE_VALUE LANG_REF="und">hand, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1244e21e-932d-44ef-94a1-ad80b70e19d0">
+            <CVE_VALUE LANG_REF="und">hand, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a1ac716f-16f9-4473-9b8e-69eb896236bb">
+            <CVE_VALUE LANG_REF="und">head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bcd048ba-3feb-49a6-8770-b4b40e28fce1">
+            <CVE_VALUE LANG_REF="und">finger, hand, head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_2f122142-f959-4e5d-ad8f-6006b88261de">
+            <CVE_VALUE LANG_REF="und">finger, hand, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_049bba61-d07a-4069-9909-c55dd21194dc">
+            <CVE_VALUE LANG_REF="und">finger, head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5b917165-0b14-45af-8a20-1c309b101d04">
+            <CVE_VALUE LANG_REF="und">hand, head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d0edf99d-0ab2-46ef-bbda-3e0cedee2ea5">
+            <CVE_VALUE LANG_REF="und">finger, hand, head, body</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
